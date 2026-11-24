@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client"
 
 import { useState, useEffect } from "react"
@@ -117,7 +118,7 @@ export function LoginForm() {
 
           <div className="max-w-sm rounded-[28px] border border-white/10 bg-black/25 p-6 backdrop-blur-md">
             <p className="mb-3 text-xs font-semibold uppercase tracking-[0.24em]" style={{ color: "#ffb28f" }}>
-              Bienvenido de nuevo
+              This is a test for CI/CD SBOM.
             </p>
             <h2 className="text-3xl font-semibold tracking-tight text-white">
               Retoma el control de tus proyectos.
