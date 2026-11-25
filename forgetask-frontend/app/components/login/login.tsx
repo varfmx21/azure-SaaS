@@ -121,7 +121,7 @@ export function LoginForm() {
               This is a test for CI/CD SBOM.
             </p>
             <h2 className="text-3xl font-semibold tracking-tight text-white">
-              Retoma el control de tus proyectos.
+              This is a test for CI/CD SBOM.
             </h2>
             <p className="mt-4 text-sm leading-6" style={{ color: "rgba(230,237,243,0.72)" }}>
               Accede a tus tableros, revisa avances del sprint y continua donde lo dejaste.
